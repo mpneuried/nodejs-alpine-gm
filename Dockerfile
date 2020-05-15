@@ -1,4 +1,4 @@
-FROM mpneuried/nodejs-alpine-buildtools-gm:10.10.0-1.3.30
+FROM mpneuried/nodejs-alpine-buildtools-gm:13.14.0-1.3.35
 MAINTAINER mpneuried
 
 # build tools for native dependencies
